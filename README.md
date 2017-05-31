@@ -1,0 +1,2 @@
+# QRProject
+AndroidClass
