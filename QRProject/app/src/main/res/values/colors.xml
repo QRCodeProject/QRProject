@@ -6,4 +6,6 @@
     <color name="actionbar_opacity">#33000000</color>
     <color name="colorOrange">#d6ff4400</color>
     <color name="colorOrangeTitle">#ff7644</color>
+    <color name="QRCodeBlackColor">#000000</color>
+    <color name="QRCodeWhiteColor">#ffffff</color>
 </resources>
